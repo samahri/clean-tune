@@ -16,7 +16,7 @@ clean-tune is a motion-sensor enabled, 20 second timer used to wash your hand. W
 xx jumpter wire
 
 ## design
-
+![clean-tune_bb](https://user-images.githubusercontent.com/16739201/93008191-d8052680-f526-11ea-9257-2638c419c314.png)
 
 
 
